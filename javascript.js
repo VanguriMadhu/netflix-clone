@@ -126,7 +126,7 @@ function truncate(str, n) {
       row_posters.className = "row__posters";
       row.appendChild(row_posters);
       
-      
+      1
       data.results.forEach((movie) => {
         
         const poster = document.createElement("img");
